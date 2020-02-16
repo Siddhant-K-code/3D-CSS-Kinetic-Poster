@@ -1,0 +1,18 @@
+<div class="wrapper">
+	<div class="stage">
+		<div class="poster">
+			<div class="wheel">
+				<h1 class="txt">Siddhant</h1>
+			</div>
+			<div class="content">
+				<h2 class="title"> Progress</h2>
+				<p class="desc">The Path Is Not Linear but Circular and Continuous</p>
+			</div>
+			<div class="poster__base2">
+			</div>
+			<div class="poster__base1">
+			</div>
+		</div>
+	</div>
+</div>
+
